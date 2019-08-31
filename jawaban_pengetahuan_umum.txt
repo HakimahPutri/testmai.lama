@@ -1,0 +1,43 @@
+1. Version Control 
+      Sistem yg memudahkan untuk  menyimpan dan mengelola rekaman perubahan atau snapshots dari source code.
+      Fungsi VCS: 
+a. bisa melacak history perubahan/versi 
+b. Memungkinkan bekerja berkolaborasi dengan baik
+c. Memungkinkan untuk kembali pada keadaan sebelum perubahan 
+
+2. GIT 
+      salah satu software yang bisa melakukan VCS. GIT adalah sebuah VCS yang terdistribusi yang bisa digunakan untuk mengelola perubahan file didalam folder(repository/repo), riwayat perubahan file disimpan menggunakan serangkaian commit.
+
+3. Framework 
+      sebuah software yang memudahkan seorang programer dalam membuat sebuah aplikasi web, dimana ada berbagai fungsi diantaranya plugin, dan konsep untuk membentuk suatu sistem agar tersusun dan tersetruktur dengan rapih.
+      Untuk saat ini framework terbagi dua yaitu framework PHP dan framework CSS, 
+      untuk framework PHP terdiri dari :
+a. Laravel
+b. Yii
+c. Code Igniter
+d. Symfoni
+e. Zend Framework
+f. Cake PHP
+g. Fuel PHP
+h. DLL
+      untuk Framework CSS terdiri dari :
+a. Bootstrap
+b. Gumby
+c. Foundation
+d. Less Framework
+e. JQuery UI
+f. Unsemantic
+g. Blue Print CSS
+
+4.  REST API 
+      gaya arsitektural perangkat lunak yang didalamnya mendefinisikan aturan-aturan untuk membuat Web service.
+
+5. SQL (Structured Query Language) 
+      bahasa pemrograman khusus yang digunakan untuk memanajemen data dalam RDBMS.  Atau biasa disebut sebagai bahasanya sebuah database
+      
+      
+6. Http 
+      sebuah protokol untuk mengatur komunikasi antara client dan server. 
+      
+7. UI framework 
+      sebuah toolkit yang berisi komponen untuk membuat tampilan aplikasi secara cepat dan lebih mudah. UI framework telah menyajikan puluhan komponen view mulai dari Typografi, List / ListView, Javascript atau interaksi model dengan lebih maintenable dan fleksibel.
