@@ -8,7 +8,7 @@
         <div class="col-sm-12">
           <div class="title-box text-center">
             <h3 class="title-a">
-              Portofolio & Certifications
+              Portofolio
             </h3>
             <br>
             <div class="text-center">
@@ -92,91 +92,4 @@
             </a>
           </div>
         </div>
-        <div class="container">
-      <div class="row">
-        <div class="col-sm-12">
-            <div class="text-center">
-             <h2> Certification
-            </h2>
-            </div>
-            <div class="line-mf"></div>
-          </div>
-        </div>
-      </div>
-      <br><br>
-      <div class="row">
-        <div class="col-md-4">
-          <div class="work-box">
-            <a href="img/sertifikat1.png" data-lightbox="gallery-mf">
-              <div class="work-img">
-                <img src="img/sertifikat1.png" alt="" class="img-fluid">
-              </div>
-              <div class="work-content">
-                <div class="row">
-                  <div class="col-sm-8">
-                    <h2 class="w-title">Prakerin</h2>
-                    <div class="w-more">
-                      <span class="w-ctegory">Sertifikat </span> / <span class="w-date">30 Juni 2014</span>
-                    </div>
-                  </div>
-                  <div class="col-sm-4">
-                    <div class="w-like">
-                      <span class="ion-ios-plus-outline"></span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </a>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="work-box">
-            <a href="img/sertifikat2.png" data-lightbox="gallery-mf">
-              <div class="work-img">
-                <img src="img/sertifikat2.png" alt="" class="img-fluid">
-              </div>
-              <div class="work-content">
-                <div class="row">
-                  <div class="col-sm-8">
-                    <h2 class="w-title">Kompetensi Keahlian</h2>
-                    <div class="w-more">
-                      <span class="w-ctegory">Sertifikat </span> / <span class="w-date">25 Maret 2014</span>
-                    </div>
-                  </div>
-                  <div class="col-sm-4">
-                    <div class="w-like">
-                      <span class="ion-ios-plus-outline"></span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </a>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="work-box">
-            <a href="img/sertifikat3.png" data-lightbox="gallery-mf">
-              <div class="work-img">
-                <img src="img/sertifikat3.png" alt="" class="img-fluid">
-              </div>
-              <div class="work-content">
-                <div class="row">
-                  <div class="col-sm-8">
-                    <h2 class="w-title">Pelatihan WEB</h2>
-                    <div class="w-more">
-                      <span class="w-ctegory">Sertifikat</span> / <span class="w-date">12 Agustus 2019</span>
-                    </div>
-                  </div>
-                  <div class="col-sm-4">
-                    <div class="w-like">
-                      <span class="ion-ios-plus-outline"></span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </a>
-          </div>
-        </div>
-      </div>
-        <br><br>
   @endsection
